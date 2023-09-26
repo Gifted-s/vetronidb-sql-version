@@ -2,6 +2,7 @@
 ### Experimental sql database
 #### Curently has a parser but no interaction with the disk or execution engine yet.
 
+[![Watch the video](https://firebasestorage.googleapis.com/v0/b/planna-f379d.appspot.com/o/Screen%20Recording%202023-09-26%20at%2018.24.51.mp4?alt=media&token=df6dfd47-f364-438d-99cc-aaaf330050cd)]
 
 **TODO**
  - Add execution engine
