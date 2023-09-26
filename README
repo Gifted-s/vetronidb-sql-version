@@ -1,0 +1,12 @@
+## Vetroni DB SQL Version.
+### Experimental sql database
+#### Curently has a parser but no interaction with the disk or execution engine yet.
+
+[![Prelude](https://firebasestorage.googleapis.com/v0/b/planna-f379d.appspot.com/o/Screen%20Recording%202023-09-26%20at%2018.24.51.mov?alt=media&token=d0215266-40de-4b78-970e-edca802db9c8)](https://firebasestorage.googleapis.com/v0/b/planna-f379d.appspot.com/o/Screen%20Recording%202023-09-26%20at%2018.24.51.mov?alt=media&token=d0215266-40de-4b78-970e-edca802db9c8)
+
+**TODO**
+ - Add execution engine
+ - Interation with disk using B-Tree indexing
+ - Expansion of commands
+ - Introduction of raft for distributed consistent state between nodes
+ - Transaction support
